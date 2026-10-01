@@ -17,3 +17,4 @@ signing-password.txt
 original-page.html
 clock-ui.xml
 *.png
+!docs/*.png

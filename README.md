@@ -6,6 +6,8 @@ is also included.
 
 Inspired by [Oisín Moran's sumertime](https://oisinmoran.com/sumertime).
 
+<p align="center"><img src="docs/lockscreen.png" width="320" alt="Samsung lockscreen showing 7:05 with the cuneiform clock below it"></p>
+
 ## Numeral systems
 
 | System | What it shows |
