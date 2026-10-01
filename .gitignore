@@ -1,0 +1,19 @@
+# Toolchain and downloads (fetched separately, ~900 MB)
+toolchain/
+*.zip
+*.tar.gz
+android-repository.xml
+jdk-assets.json
+font-metadata.json
+# Build output
+build/
+*.apk
+*.apk.sha256
+*.idsig
+# Signing secrets
+signing.keystore
+signing-password.txt
+# Local captures and third-party page copy
+original-page.html
+clock-ui.xml
+*.png

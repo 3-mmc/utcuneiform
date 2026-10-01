@@ -1,0 +1,7 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="400dp" android:minHeight="112dp"
+    android:minResizeWidth="220dp" android:minResizeHeight="72dp"
+    android:targetCellWidth="5" android:targetCellHeight="2"
+    android:resizeMode="horizontal|vertical" android:updatePeriodMillis="0"
+    android:initialLayout="@layout/clock_widget" android:previewLayout="@layout/clock_widget"
+    android:widgetCategory="home_screen|keyguard" />
